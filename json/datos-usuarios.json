@@ -1,0 +1,51 @@
+[
+  {
+    "nombre": "Mariana López",
+    "email": "mariana92@gmail.com",
+    "comentario": "Aún no puede conseguir el pantalaón del tiempo :(",
+    "likes": 3,
+    "respuestas": 2
+  },
+  {
+    "nombre": "Roberto Martinez",
+    "email": "romartinez@gmail.com",
+    "comentario": "Gracias por la información",
+    "likes": 1,
+    "respuestas": 0
+  },
+  {
+    "nombre": "Agustina Sosa",
+    "email": "agus-sosa30@gmail.com",
+    "comentario": "¿Cómo puedo conseguir la espada maestra?",
+    "likes": 4,
+    "respuestas": 3
+  },
+  {
+    "nombre": "Santiago Rodríguez",
+    "email": "santiagor90@gmail.com",
+    "comentario": "Me gustaría saber como puedo cambiar el color de los atuendos.",
+    "likes": 1,
+    "respuestas": 4
+  },
+  {
+    "nombre": "Mercedes González",
+    "email": "mechag87@gmail.com",
+    "comentario": "La guía me sirvió mucho",
+    "likes": 1,
+    "respuestas": 0
+  },
+  {
+    "nombre": "Jessica Pérez",
+    "email": "jess15@gmail.com",
+    "comentario": "¿Cómo puedo agregar espacios adicionales para las armaduras y demás prendas?",
+    "likes": 7,
+    "respuestas": 3
+  },
+  {
+    "nombre": "Martín Perdomo",
+    "email": "mperdomo@gmail.com",
+    "comentario": "¿Puede agregar espacios adicionales al inventario?",
+    "likes": 4,
+    "respuestas": 2
+  }
+]
